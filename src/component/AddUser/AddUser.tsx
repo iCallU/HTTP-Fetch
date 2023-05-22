@@ -12,7 +12,7 @@ const adduserBTN =async ()=>{
         email,
         password,
         id: Math.random(),
-        date : new Date,
+        date : new Date(),
     }
     console.table(
         newUser
