@@ -1,0 +1,14 @@
+.form-group{
+       height : 160px;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-around;
+       border-top : 5px solid grey;
+       width:40%;
+}
+.form-control{
+    height : 95px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
